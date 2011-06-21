@@ -1,0 +1,6 @@
+bash prompt (_command) for command finish notification through libnotify.
+
+use: . setnotifyprompt.sh
+
+(NOTE: you may need to change success/failure icon locations for your system)
+
